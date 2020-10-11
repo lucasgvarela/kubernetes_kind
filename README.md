@@ -5,4 +5,4 @@
 kind create cluster
 
 ##### Create cluster using a config file
-kind create cluster --config multinode-2works-1controlplane.yaml
+kind create cluster --config multinode-2workers-1controlplane.yaml
